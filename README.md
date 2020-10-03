@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### I am a Cloud Enthusiast, Software developer and I write technical articles at dawn. I am passionate about the helping businesses find their place on the cloud and provide support that makes them define success, the SDGs, S.T.E.M,  Technology and an unrepentant community builder.
+### I am a Cloud Enthusiast, Software developer and I write technical articles at dawn. I am passionate about helping businesses find their place on the cloud and provide support that makes them define success, the SDGs, S.T.E.M,  Technology and an unrepentant community builder.
 **[MY PORTFOLIO](https://senseifavour.netlify.app/)**
 
 *ABOUT ME...*
