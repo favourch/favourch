@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 *ABOUT ME...*
 
-- 🔭 I’m currently working on a platform that helps childern in low-income and underserved communities get access to quality learning materials at almost zero-cost with basic feature phones using SMS and USSD.
+- 🔭 I’m currently working on [DigiLearns](https://www.digilearns.ng/) a platform that helps childern in low-income and underserved communities get access to quality learning materials at almost zero-cost with basic feature phones using SMS and USSD.
 - 🌱 I’m currently learning Cloud Administration and Security on Azure
 - 👯 I’m looking to collaborate on projects and opportunities that resonate with my passion.
 - 🤔 I’m looking for help on my journey as a MERN Stack developer
