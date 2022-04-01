@@ -9,11 +9,12 @@
 
 *ABOUT ME...*
 
-- 🔭 I’m currently working on [DigiLearns](https://www.digilearns.ng/) a platform that helps childern in low-income and underserved communities get access to quality learning materials at almost zero-cost with basic feature phones using SMS and USSD.
+
 - 🌱 I’m currently building amazing things with Svelte
 - 👯 I’m looking to collaborate on projects and opportunities that resonate with my passion.
 - 🤔 I’m looking for help on my journey as a MERN Stack developer
 - 💬 Ask me about Community building, Svelte, Web3, Cloud Security, Migrating On-premise infrastructre to the Cloud, Community building, S.T.E.M and the SDGs
+- 🔭 I’m currently working on [DigiLearns](https://www.digilearns.ng/) a platform that helps childern in low-income and underserved communities get access to quality learning materials at almost zero-cost with basic feature phones using SMS and USSD.
 - 📫 How to reach me: [![Twitter: Senseifavour](https://img.shields.io/twitter/follow/Senseifavour?style=social)](https://twitter.com/Senseifavour)
 - 🤝 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/favour-chukwuedo/)
 - 😄 Pronouns: He/Him
