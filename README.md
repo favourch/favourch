@@ -7,7 +7,7 @@ I'm a Frontend Deveoper, working with HTML, CSS, Node, Express, Svelte, Javascri
         <br/>
         🙂 I design aesthetically pleasing interface while offering a satisfying experience to users.
         <br/>
-        🧑🏽‍💻 Open to Internships and Part time opportunities
+        🧑🏽‍💻 Open to Remote or Hybrid Roles, Internships and Part time opportunities
         <br />
 
 <a href="https://twitter.com/senseifavour">
