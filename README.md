@@ -1,24 +1,33 @@
-### Hi there 👋
+<h3>Hello 👋🏾</h3>
+I'm a Frontend Deveoper, working with HTML, CSS, Node, Express, Svelte, Javascript, ReactJs<br><br>
 
-<!--
-**favourch/favourch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+ 👀 I love to build projects that solve real life problems
+        <br/>
+        🚀 I love contributing to open source.
+        <br/>
+        🙂 I design aesthetically pleasing interface while offering a satisfying experience to users.
+        <br/>
+        🧑🏽‍💻 Open to Internships and Part time opportunities
+        <br />
 
-
-### I am a Technical Community Professional, Software developer and I write technical articles at dawn. I am passionate about helping businesses find their place on the cloud and provide support that makes them define success, the SDGs, S.T.E.M,  Technology and an unrepentant community builder.
-**[MY PORTFOLIO](https://favourchukwuedo.com/)**
-
-*ABOUT ME...*
-
-
-- 🌱 I’m currently building amazing things with Svelte
-- 👯 I’m looking to collaborate on projects and opportunities that resonate with my passion.
-- 🤔 I’m looking for help on my journey as a MERN Stack developer
-- 💬 Ask me about Community building, Svelte, Web3, Cloud Security, Migrating On-premise infrastructre to the Cloud, Community building, S.T.E.M and the SDGs
-- 🔭 I’m currently working on [DigiLearns](https://web.digilearns.ng/) a platform that helps childern in low-income and underserved communities get access to quality learning materials at almost zero-cost with basic feature phones using SMS and USSD.
-- 📫 How to reach me: [![Twitter: Senseifavour](https://img.shields.io/twitter/follow/Senseifavour?style=social)](https://twitter.com/Senseifavour)
-- 🤝 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/favour-chukwuedo/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watching documentary-drama.
+<a href="https://twitter.com/senseifavour">
+<img src="https://img.shields.io/twitter/follow/senseifavour?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
 
 
-
+## My Github Stats && Technologies I use:
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/favourch"><img alt="Favour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=favourch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/favourch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=favourch&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Jonnie-Dev"><img alt="Favour's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favourch&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+  </table>
+  
+ 
+[![Favour's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=favourch&theme=react-dark)](https://github.com/favourch/github-readme-activity-graph)
