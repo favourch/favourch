@@ -30,4 +30,3 @@ I'm a Software Engineer & Cross-Platform Application Developer, working with Dar
   </table>
   
  
-[![Favour's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=favourch&theme=react-dark)](https://github.com/favourch/github-readme-activity-graph)
