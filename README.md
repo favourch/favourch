@@ -1,5 +1,5 @@
 <h3>Hello 👋🏾</h3>
-I'm a Frontend Deveoper, working with HTML, CSS, Node, Express, Svelte, Javascript, ReactJs<br><br>
+I'm a Software Engineer & Cross-Platform Application Developer, working with Dart, HTML, CSS, Node, Express, Svelte, Javascript, ReactJs<br><br>
 
  👀 I love to build projects that solve real life problems
         <br/>
