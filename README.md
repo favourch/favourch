@@ -14,7 +14,7 @@ I'm a Software Engineer & Cross-Platform Application Developer, working with Dar
 <img src="https://img.shields.io/twitter/follow/senseifavour?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
 
 
-## My Github Stats && Technologies I use:
+## My Github Stats & Technologies I use:
 <table>
   <tr>
     <td>
