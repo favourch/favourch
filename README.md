@@ -18,7 +18,8 @@ I'm a Software Engineer & Cross-Platform Application Developer, working with Dar
 <table>
   <tr>
     <td>
-      <a href="https://github.com/favourch"><img alt="Favour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=favourch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+      <a href="https://github.com/favourch"><img alt="Favour's Github Stats" src="https://raw.githubusercontent.com/favourch/profileassets/main/githubstats.svg" /></a>
+     <!--<a href="https://github.com/favourch"><img alt="Favour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=favourch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>-->
     </td>
     <td>
       <a href="http://www.github.com/favourch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=favourch&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
