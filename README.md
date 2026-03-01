@@ -13,22 +13,5 @@ I'm a Software Engineer & Cross-Platform Application Developer, working with Dar
 <a href="https://twitter.com/senseifavour">
 <img src="https://img.shields.io/twitter/follow/senseifavour?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
 
-
-## My Github Stats & Technologies I use:
-<table>
-  <tr>
-    <td>
-     <!-- <a href="https://github.com/favourch"><img alt="Favour's Github Stats" src="https://raw.githubusercontent.com/favourch/profileassets/main/githubstats.svg" /></a>-->
-     <a href="https://github.com/favourch"><img alt="Favour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=favourch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/favourch"><img src="https://raw.githubusercontent.com/favourch/profileassets/3dd7559b375014c4a4ba0eb1fb7bb4fa71bd41ae/streak.svg" /></a>
-     <!--<a href="http://www.github.com/favourch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=favourch&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
-    </td>
-    <td>
-      <a href="https://github.com/favourch"><img alt="Favour's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favourch&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-  </table>
   
  
